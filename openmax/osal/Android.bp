@@ -160,7 +160,6 @@ cc_library_static {
         "libcutils",
         "libutils",
         "liblog",
-        "libion",
         "libhardware",
         "libhidlbase",
         "libui",
